@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm Erdal.
+## Hi there I'm Erdal. 
 
 To introduce myself briefly, I hold a I am a Mathematician with a Bachelor of Science from Istanbul, Turkey. I bridge the gap between mathematical theory and practical technology, specializing in Data Science, Machine Learning (ML), and Artificial Intelligence (AI).
 
@@ -22,7 +20,7 @@ End-to-end ML system that predicts customer churn probability and delivers real-
 - Built full DS & ML pipeline (data → model → deployment)
 - Random Forest model with probability scoring
 - Feature engineering + training/inference consistency
-- Production-ready Streamlit app
+- Production-ready on Streamlit app
 
 ---
 
@@ -52,13 +50,17 @@ End-to-end ML system that predicts customer churn probability and delivers real-
 
 ## 📫 Connect
 
-- LinkedIn: (https://www.linkedin.com/in/erdalerdogan-)because its `README.md` (this file) appears on your GitHub profile.
+- LinkedIn: (https://www.linkedin.com/in/erdalerdogan-)
 
 
-In the end
+# In the end
 Last thing I have to say that is;
 
 ## BETTER CALL SAUL !! 🫵🏻🫵🏻
+
+Have a good and happy days to you...
+
+
 
 
 

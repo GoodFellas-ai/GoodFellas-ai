@@ -36,14 +36,15 @@ End-to-end ML system that predicts customer churn probability and delivers real-
 - Pandas / NumPy  
 - Scikit-learn  
 - Machine Learning  
-- Streamlit  
+- Streamlit ... 
 
 ---
 
 ## 🎯 What I'm Focused On
 
 - Machine Learning & AI Engineering  
-- Data Science Projects  
+- Data Science Projects
+- Data Analysis & Analytics
 - Model Deployment  
 - Real-world AI applications  
 
@@ -51,16 +52,13 @@ End-to-end ML system that predicts customer churn probability and delivers real-
 
 ## 📫 Connect
 
-- LinkedIn: (link ekle)as-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- LinkedIn: (https://www.linkedin.com/in/erdalerdogan-)because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the end
+Last thing I have to say that is;
+
+## BETTER CALL SAUL !! 🫵🏻🫵🏻
+
+
+

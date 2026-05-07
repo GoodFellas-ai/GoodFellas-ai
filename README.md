@@ -1,12 +1,12 @@
-# Hi, I'm Erdal.
+# Hi and welcome, I'm Erdal.
 
-Data Science and Machine Learning focused mathematician building deployable AI applications with Python, NLP, and real-world data.
+I'm a Data Science and AI - ML focused Mathematician building deployable AI applications with Python, NLP, and real-world data.
 
-I develop end-to-end machine learning projects — from data analysis, data science etc. and modeling to interactive deployment.
+I develop end-to-end machine learning - AI projects — from data analysis, data science etc. and modeling to interactive deployment.
 
 ---
 
-## Current Live Projects
+## -- Live Projects
 
 ### Customer Churn Prediction System (Deployed)
 

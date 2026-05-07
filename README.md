@@ -1,62 +1,82 @@
-## Hi there I'm Erdal. 
+# Hi, I'm Erdal
 
-To introduce myself briefly, I hold a I am a Mathematician with a Bachelor of Science from Istanbul, Turkey. I bridge the gap between mathematical theory and practical technology, specializing in Data Science, Machine Learning (ML), and Artificial Intelligence (AI).
+Data Science and Machine Learning focused mathematician building deployable AI applications with Python, NLP, and real-world data.
 
-My expertise covers the full spectrum of the data journey: from performing rigorous Data Analysis to uncover hidden patterns, to designing and deploying robust end-to-end ML/AI systems in real-world environments.
-
-I am driven by the challenge of transforming complex datasets into intelligent, scalable, and impactful solutions.
+I develop end-to-end machine learning projects — from data analysis, data science etc. and modeling to interactive deployment.
 
 ---
 
-## 🚀 Featured Projects
+## Current Live Projects
 
-### 📊 Customer Churn Intelligence
-End-to-end ML system that predicts customer churn probability and delivers real-time predictions via a deployed web applications.
+### Customer Churn Prediction System (Deployed)
 
-👉 Live Demo: https://customer-churn-prediction-mlai-app-arw3du8bwkjz4xormvpbrw.streamlit.app/
+End-to-end machine learning application for predicting customer churn probability and supporting customer retention analysis.
 
-**Highlights:**
+**Highlights**
 
-- Built full DS & ML pipeline (data → model → deployment)
-- Random Forest model with probability scoring
-- Feature engineering + training/inference consistency
-- Production-ready on Streamlit app
+- Full ML workflow: preprocessing, feature engineering, training, evaluation, deployment
+- Probability-based prediction using Random Forest
+- Interactive deployed web application
 
----
+**Live Demo**  
+https://customer-churn-prediction-mlai-app-arw3du8bwkjz4xormvpbrw.streamlit.app/
 
-## 🧠 Tech Stack
-
-- Python
-- SQL
-- R
-- Pytorch
-- Javascript
-- Pandas / NumPy  
-- Scikit-learn  
-- Machine Learning  
-- Streamlit ... 
+**Repository**  
+https://github.com/GoodFellas-ai
 
 ---
 
-## 🎯 What I'm Focused On
+### NLP Sentiment Analysis Web Application (Deployed)
+Real-time sentiment analysis application for e-commerce customer reviews using transformer-based NLP.
 
-- Machine Learning & AI Engineering  
-- Data Science Projects
-- Data Analysis & Analytics
-- Model Deployment  
-- Real-world AI applications  
+**Highlights**
+- Exploratory data analysis on customer review dataset
+- Real-time sentiment inference with confidence scoring
+- Interactive Streamlit application
+- Modular frontend/backend project structure
+
+**Live Demo**  
+https://huggingface.co/spaces/ErdalX/nlp-sentiment-ecommerce-review-analysis
+
+**Repository**  
+https://github.com/GoodFellas-ai
 
 ---
 
-## 📫 Connect
+## Tech Stack
 
-- LinkedIn: (https://www.linkedin.com/in/erdalerdogan-)
+**Programming**  
+Python, SQL, JavaScript, R (Basic)
+
+**Machine Learning / AI**  
+Scikit-learn, PyTorch, Hugging Face Transformers
+
+**Data**  
+Pandas, NumPy, Matplotlib
+
+**Deployment / Apps**  
+Streamlit, FastAPI
+
+---
+
+## Current Focus
+
+- Building deployable machine learning applications
+- NLP and recommendation systems
+- Data products that combine analytics, prediction, and user-facing interfaces
+
+---
+
+## Connect
+
+**LinkedIn**  
+https://www.linkedin.com/in/erdalerdogan-/
+
+---
+
+> Building practical machine learning - ai systems that turn data into usable products.
 
 
-# In the end
-Last thing I have to say that is;
-
-## BETTER CALL SAUL !! 🫵🏻🫵🏻
 
 Have a good and happy days to you...
 

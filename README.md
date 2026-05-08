@@ -2,7 +2,7 @@
 
 I'm a Data Science and AI - ML focused Mathematician building deployable AI applications with Python, NLP, and real-world data.
 
-I develop end-to-end machine learning - AI projects — from data analysis, data science etc. and modeling to interactive deployment.
+I develop some kind of end-to-end machine learning - AI projects — from data analysis, data science etc. and modeling to interactive deployment.
 
 ---
 

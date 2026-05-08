@@ -6,7 +6,7 @@ I develop some kind of end-to-end machine learning - AI projects — from data a
 
 ---
 
-## -- Live Projects
+## Live Projects
 
 ### Customer Churn Prediction System (Deployed)
 
@@ -18,6 +18,7 @@ End-to-end machine learning application for predicting customer churn probabilit
 - Probability-based prediction using Random Forest
 - Interactive deployed web application
 
+
 **Live Demo**  
 https://customer-churn-prediction-mlai-app-arw3du8bwkjz4xormvpbrw.streamlit.app/
 
@@ -26,14 +27,18 @@ https://github.com/GoodFellas-ai
 
 ---
 
+
 ### NLP Sentiment Analysis Web Application (Deployed)
+
 Real-time sentiment analysis application for e-commerce customer reviews using transformer-based NLP.
+
 
 **Highlights**
 - Exploratory data analysis on customer review dataset
 - Real-time sentiment inference with confidence scoring
 - Interactive Streamlit application
 - Modular frontend/backend project structure
+
 
 **Live Demo**  
 https://huggingface.co/spaces/ErdalX/nlp-sentiment-ecommerce-review-analysis
@@ -42,6 +47,7 @@ https://huggingface.co/spaces/ErdalX/nlp-sentiment-ecommerce-review-analysis
 https://github.com/GoodFellas-ai
 
 ---
+
 
 ## Tech Stack
 
@@ -74,7 +80,7 @@ https://www.linkedin.com/in/erdalerdogan-/
 
 ---
 
-> Building practical machine learning - ai systems that turn data into usable products.
+-- Building practical machine learning - ai systems that turn data into usable products.
 
 
 

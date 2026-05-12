@@ -6,7 +6,7 @@ I develop some kind of end-to-end machine learning - AI projects — from data a
 
 ---
 
-## Live Projects
+## Live Projects 
 
 ### Customer Churn Prediction System (Deployed)
 

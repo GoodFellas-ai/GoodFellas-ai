@@ -13,9 +13,9 @@ I develop some kind of end-to-end machine learning - AI projects — from data a
 # BUSINESS ANALYTICS AI - LLM - RAG  ASSISTANT (Deployed)
 
 
-Upload your sales data and ask questions about your business! This AI-LLM-RAG application deployed on Streamlit, using ChromaDB for vector storage and GROQ for LLM responses.
+Upload your sales data and ask questions about your business! This AI-LLM-RAG application deployed on Streamlit using ChromaDB for vector storage and GROQ for LLM responses.
 business-analytics-ai-rag-llm-assistant.
-AI-powered Business Analytics Assistant using RAG (Retrieval-Augmented Generation), LLMs, and Vector Databases for intelligent business insight generation from retail sales data.
+AI-powered Business Analytics Assistant using RAG (Retrieval-Augmented Generation), LLMs and Vector Databases for intelligent business insight generation from retail sales data.
 
 ----
 ----
@@ -139,7 +139,7 @@ Streamlit, FastAPI
 
 - Building deployable machine learning applications
 - NLP and recommendation systems
-- Data products that combine analytics, prediction, and user-facing interfaces
+- Data products that combine analytics, prediction and user-facing interfaces
 
 ---
 

@@ -7,7 +7,6 @@ I develop some kind of end-to-end machine learning - AI projects — from data a
 ---
 
 ## Live Projects 
-
 ---
 
 # BUSINESS ANALYTICS AI - LLM - RAG  ASSISTANT (Deployed)

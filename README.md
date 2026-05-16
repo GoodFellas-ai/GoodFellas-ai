@@ -117,7 +117,9 @@ Real-time sentiment analysis application for e-commerce customer reviews using t
 ---
 
 **Live Demo**  
+
 https://huggingface.co/spaces/ErdalX/nlp-sentiment-ecommerce-review-analysis
+
 
 **Repository**  
 https://github.com/GoodFellas-ai
@@ -130,11 +132,14 @@ https://github.com/GoodFellas-ai
 **Programming**  
 Python, SQL, JavaScript, R (Basic)
 
+
 **Machine Learning / AI**  
 Scikit-learn, PyTorch, Hugging Face Transformers
 
+
 **Data**  
 Pandas, NumPy, Matplotlib
+
 
 **Deployment / Apps**  
 Streamlit, FastAPI

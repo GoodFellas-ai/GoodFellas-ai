@@ -44,6 +44,8 @@ Users can ask questions such as:
 - "Which products performed best?"
 The application retrieves relevant business insights from a vector database and generates contextual responses using an LLM.
 
+---
+
 ## 🧠 Technologies Used
 
 - AI / LLM / RAG
@@ -75,9 +77,11 @@ The application retrieves relevant business insights from a vector database and 
 - Bilingual Response Support (English & Turkish)
 - Retrieval-Augmented Generation (RAG)
 
-
+---
 
 ## Customer Churn Prediction System (Deployed)
+
+---
 
 End-to-end machine learning application for predicting customer churn probability and supporting customer retention analysis.
 

@@ -88,11 +88,16 @@ End-to-end machine learning application for predicting customer churn probabilit
 - Probability-based prediction using Random Forest
 - Interactive deployed web application
 
+---
 
 **Live Demo**  
+
 https://customer-churn-prediction-mlai-app-arw3du8bwkjz4xormvpbrw.streamlit.app/
 
+---
+
 **Repository**  
+
 https://github.com/GoodFellas-ai
 
 ---
@@ -109,6 +114,7 @@ Real-time sentiment analysis application for e-commerce customer reviews using t
 - Interactive Streamlit application
 - Modular frontend/backend project structure
 
+---
 
 **Live Demo**  
 https://huggingface.co/spaces/ErdalX/nlp-sentiment-ecommerce-review-analysis

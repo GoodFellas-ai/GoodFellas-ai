@@ -35,6 +35,8 @@ The system combines:
 - Vector Search
 
 
+---
+
 ## Interactive Dashboarding
 
 Users can ask questions such as:

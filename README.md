@@ -11,6 +11,7 @@ I develop some kind of end-to-end machine learning - AI projects — from data a
 
 # BUSINESS ANALYTICS AI - LLM - RAG  ASSISTANT (Deployed)
 
+---
 
 Upload your sales data and ask questions about your business! This AI-LLM-RAG application deployed on Streamlit using ChromaDB for vector storage and GROQ for LLM responses.
 business-analytics-ai-rag-llm-assistant.
@@ -109,6 +110,8 @@ https://github.com/GoodFellas-ai
 
 
 ### NLP Sentiment Analysis Web Application (Deployed)
+
+---
 
 Real-time sentiment analysis application for e-commerce customer reviews using transformer-based NLP.
 

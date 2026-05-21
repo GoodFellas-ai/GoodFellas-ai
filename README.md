@@ -19,7 +19,7 @@ business-analytics-ai-rag-llm-assistant.
 AI-powered Business Analytics Assistant using RAG (Retrieval-Augmented Generation), LLMs and Vector Databases for intelligent business insight generation from retail sales data.
 
 ----
-----
+
 
 ## 🚀 Live Demo
 
@@ -89,6 +89,7 @@ The application retrieves relevant business insights from a vector database and 
 ---
 
 End-to-end machine learning application for predicting customer churn probability and supporting customer retention analysis.
+---
 
 **Highlights**
 

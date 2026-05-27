@@ -85,9 +85,10 @@ The application retrieves relevant business insights from a vector database and 
 
 ---
 
-## Customer Churn Prediction System (Deployed)
+# Customer Churn Prediction System (Deployed)
 
 ---
+
 
 End-to-end machine learning application for predicting customer churn probability and supporting customer retention analysis.
 ---

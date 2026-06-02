@@ -1,4 +1,4 @@
-# Hi and welcome, I'm Erdal.
+# Hi and welcome, I'm Erdal. 
 
 
 I'm a Data Science and AI - ML focused Mathematician building deployable AI applications with Python, NLP and real-world data.
@@ -8,6 +8,7 @@ I develop some kind of end-to-end machine learning - AI projects — from data a
 ---
 
 ## Live Projects 
+
 ---
 
 # BUSINESS ANALYTICS AI - LLM - RAG  ASSISTANT (Deployed)
@@ -123,7 +124,7 @@ Real-time sentiment analysis application for e-commerce customer reviews using t
 **Highlights**
 - Exploratory data analysis on customer review dataset
 - Real-time sentiment inference with confidence scoring
-- Interactive Streamlit application
+- Interactive Streamlit, Render application
 - Modular frontend/backend project structure
 
 ---

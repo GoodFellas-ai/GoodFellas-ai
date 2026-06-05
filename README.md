@@ -3,6 +3,7 @@
 
 I'm a Data Science and AI - ML focused Mathematician building deployable AI applications with Python, NLP and real-world data.
 
+
 I develop some kind of end-to-end machine learning - AI projects — from data analysis, data science etc. and modeling to interactive deployment.
 
 ---
@@ -15,7 +16,7 @@ I develop some kind of end-to-end machine learning - AI projects — from data a
 
 ---
 
-Upload your sales data and ask questions about your business! This AI-LLM-RAG application deployed on Streamlit using ChromaDB for vector storage and GROQ for LLM responses.
+Upload your sales data and ask questions about your business! This AI-LLM-RAG application deployed on Streamlit using ChromaDBs for vector storage and GROQ for LLM responses.
 business-analytics-ai-rag-llm-assistant.
 AI-powered Business Analytics Assistant using RAG (Retrieval-Augmented Generation), LLMs and Vector Databases for intelligent business insight generation from retail sales data.
 

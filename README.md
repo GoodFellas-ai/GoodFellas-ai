@@ -175,7 +175,7 @@ https://www.linkedin.com/in/erdalerdogan-/
 
 ---
 
--- Building practical machine learning - ai systems that turn data into usable products.
+-- Building practical machine learning - ai systems that turn data into usable products. qed
 
 
 

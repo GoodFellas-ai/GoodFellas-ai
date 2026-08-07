@@ -1,4 +1,4 @@
-# Hi and welcome, I'm Erdal..
+# Hi and welcome, I'm Erdal__.
 
 
 I'm a Data Science and AI - ML focused Mathematician building deployable AI applications with Python, NLP and real-world data.
